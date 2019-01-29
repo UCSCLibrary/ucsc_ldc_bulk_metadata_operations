@@ -1,0 +1,9 @@
+
+-- Error interpreting column header(s) --
+We cannot interpret all of the headers from your metadata spreadsheet. 
+Specifically, the following headers did not make sense to us:
+physicalformat, relatedresource, masterfilename
+
+-- Missing File Errors --
+ We couldn't find the files listed on 60 rows.
+An example of a missing filename is: ua_0041/ua_0041_gra_0001.tif
