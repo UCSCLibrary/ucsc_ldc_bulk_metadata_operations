@@ -1,7 +1,0 @@
----
-notifications:
-- ethenry@ucsc.edu
-name: A Readable Branch Name (optional)
-status: New
-type: ingest
-file_method: remove-and-add

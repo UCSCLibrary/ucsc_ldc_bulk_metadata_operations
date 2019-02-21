@@ -1,5 +1,0 @@
-
--- Error interpreting column header(s) --
-We cannot interpret all of the headers from your metadata spreadsheet. 
-Specifically, the following headers did not make sense to us:
-titlealternative, publisherhomepage, resourcetype, rightsholder, rightsstatement, staffnote, accessrights, datecreated, datecreateddisplay, datepublished, datedigitized, subjecttopic, subjectname, subjectplace, subjecttemporal, physicalformat, masterfilename, originalpublisher, physicaldescription, accessionnumber, collectioncallnumber, donorprovenance, boxfolder, itemcallnumber
