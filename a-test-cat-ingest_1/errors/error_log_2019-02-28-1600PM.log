@@ -1,0 +1,17 @@
+
+-- Error interpreting column header(s) --
+We cannot interpret all of the headers from your metadata spreadsheet. 
+Specifically, the following headers did not make sense to us:
+Type, Copyright Statement, Digital Publisher & Contact Info, Digital Publisher Homepage
+
+-- Missing File Errors --
+ We couldn't find the files listed on 8 rows.
+Missing filenames:
+/dams_ingest/wink-wink-adorable-animals.jpg
+/dams_ingest/cat-adult-landing-hero.jpg
+/dams_ingest/pexels-photo-177809.jpg
+/dams_ingest/cat.jpg
+/dams_ingest/Domestic_Cat.jpg
+/dams_ingest/06-train-cat-shake-hands.jpg
+/dams_ingest/20160525-a5.pdf
+/dams_ingest/tortoiseshell-cat-adorable-animals.jpg
