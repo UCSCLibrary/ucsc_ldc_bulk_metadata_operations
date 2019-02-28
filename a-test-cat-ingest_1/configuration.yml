@@ -1,5 +1,11 @@
-notifications: 
-  - ethenry@ucsc.edu
-name: "A Readable Branch Name (optional)"
+---
+notifications:
+- ethenry@ucsc.edu
+name: A test cat ingest
 status: New
-type: "Update / Edit / Overlay"
+type: ingest
+file_prefix: Cats/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
