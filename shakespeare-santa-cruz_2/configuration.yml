@@ -1,5 +1,14 @@
-notifications: 
-  - ethenry@ucsc.edu
-name: "A Readable Branch Name (optional)"
+---
+notifications:
+- ethenry@ucsc.edu
+name: Shakespeare Santa Cruz
 status: New
-type: "Update / Edit / Overlay"
+type: ingest
+file_prefix: ua0041/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+shakespeare-santa-cruz_2: shakespeare-santa-cruz_2
+ingest: ingest
+OK: OK
