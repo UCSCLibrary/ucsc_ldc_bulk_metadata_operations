@@ -1,0 +1,75 @@
+
+-- Missing File Errors --
+ We couldn't find the files listed on 22 rows.
+Missing filenames:
+/dams_ingest/ua0050/Domestic_Cat.jpg
+/dams_ingest/ua0050/ua0050_neg_0098-2660a_07.tif
+/dams_ingest/ua0050/Domestic_Cat.jpg
+/dams_ingest/ua0050/ua0050_neg_0098-2660a_15.tif
+/dams_ingest/ua0050/Domestic_Cat.jpg
+/dams_ingest/ua0050/ua0050_neg_0098-2660a_10.tif
+/dams_ingest/ua0050/Domestic_Cat.jpg
+/dams_ingest/ua0050/ua0050_neg_0001-5140d_10.tif
+/dams_ingest/ua0050/Domestic_Cat.jpg
+/dams_ingest/ua0050/ua0050_neg_0001-5140d_22.tif
+/dams_ingest/ua0050/Domestic_Cat.jpg
+/dams_ingest/ua0050/ua0050_neg_0001-5140d_23.tif
+/dams_ingest/ua0050/Domestic_Cat.jpg
+/dams_ingest/ua0050/ua0050_neg_0001-5140d_28.tif
+/dams_ingest/ua0050/Domestic_Cat.jpg
+/dams_ingest/ua0050/ua0050_neg_0001-5140d_29.tif
+/dams_ingest/ua0050/Domestic_Cat.jpg
+/dams_ingest/ua0050/ua0050_neg_0001-5140e_08.tif
+/dams_ingest/ua0050/Domestic_Cat.jpg
+/dams_ingest/ua0050/ua0050_neg_0001-5140f_01.tif
+/dams_ingest/ua0050/Domestic_Cat.jpg
+/dams_ingest/ua0050/ua0050_neg_0001-5140f_08.tif
+-- Errors Retrieving Remote Labels --
+Error retrieving label for remote url Schiffrin, Victor. 
+This url appears in 3 instances in the spreadsheet.
+The affected rows are listed here:
+2\n3\n4
+Error retrieving label for remote url Regents of the University of California. 
+This url appears in 11 instances in the spreadsheet.
+The affected rows are listed here:
+2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12
+Error retrieving label for remote url info:lc/authorities/names/n79059545; info:lc/authorities/names/n82144047. 
+This url appears in 1 instances in the spreadsheet.
+The affected rows are listed here:
+2
+Error retrieving label for remote url http://www.geonames.org/5393052; http://www.geonames.org/5404836; http://www.geonames.org/5404900. 
+This url appears in 3 instances in the spreadsheet.
+The affected rows are listed here:
+2\n3\n4
+Error retrieving label for remote url info:lc/authorities/subjects/sh85006465; info:lc/authorities/subjects/sh85028268; info:lc/authorities/subjects/sh2009002337. 
+This url appears in 1 instances in the spreadsheet.
+The affected rows are listed here:
+2
+Error retrieving label for remote url Harris, Don (Photographer); Schiffrin, Victor. 
+This url appears in 8 instances in the spreadsheet.
+The affected rows are listed here:
+5\n6\n7\n8\n9\n10\n11\n12
+Error retrieving label for remote url info:lc/authorities/names/n79059545; info:lc/authorities/names/n50027012; info:lc/authorities/names/n84007958. 
+This url appears in 1 instances in the spreadsheet.
+The affected rows are listed here:
+5
+Error retrieving label for remote url http://www.geonames.org/5393052; http://www.geonames.org/5404900. 
+This url appears in 8 instances in the spreadsheet.
+The affected rows are listed here:
+5\n6\n7\n8\n9\n10\n11\n12
+Error retrieving label for remote url info:lc/authorities/names/n79059545; info:lc/authorities/names/n84007958. 
+This url appears in 3 instances in the spreadsheet.
+The affected rows are listed here:
+6\n9\n10
+Error retrieving label for remote url Levin, Anne Neufeld, 1936-2015; info:lc/authorities/names/n79059545. 
+This url appears in 1 instances in the spreadsheet.
+The affected rows are listed here:
+7
+Error retrieving label for remote url Cowan, Michael H.; info:lc/authorities/names/n79059545. 
+This url appears in 1 instances in the spreadsheet.
+The affected rows are listed here:
+11
+Error retrieving label for remote url info:lc/authorities/names/n79059545; info:lc/authorities/names/n82130352. 
+This url appears in 1 instances in the spreadsheet.
+The affected rows are listed here:
+12
