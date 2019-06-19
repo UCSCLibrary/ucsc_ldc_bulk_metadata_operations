@@ -1,5 +1,14 @@
-notifications: 
-  - ethenry@ucsc.edu
-name: "A Readable Branch Name (optional)"
+---
+notifications:
+- ethenry@ucsc.edu
+name: UA50 test staging 3
 status: New
-type: "Update / Edit / Overlay"
+type: ingest
+file_prefix: ua0050/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+ua50-test-staging-3: ua50-test-staging-3
+ingest: ingest
+OK: OK
