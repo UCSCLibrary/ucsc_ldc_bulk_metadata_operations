@@ -4,7 +4,7 @@ notifications:
 name: RMB-PJ Not Ingested
 status: New
 type: ingest
-file_prefix: ua0050/
+file_prefix: ms0020_ingest3/
 work_type: Work
 file_method: remove-and-add
 visibility: restricted
