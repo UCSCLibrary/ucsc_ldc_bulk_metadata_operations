@@ -1,0 +1,14 @@
+---
+notifications:
+- ethenry@ucsc.edu
+name: RMB makeup ingest staging test 2
+status: New
+type: ingest
+file_prefix: ms0020_ingest3/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+rmb-makeup-ingest-staging-test-2: rmb-makeup-ingest-staging-test-2
+ingest: ingest
+OK: OK
