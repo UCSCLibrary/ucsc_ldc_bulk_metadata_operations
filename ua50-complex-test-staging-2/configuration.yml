@@ -4,7 +4,7 @@ notifications:
 name: UA50 Complex Test Staging 2
 status: New
 type: ingest
-file_prefix: ''
+file_prefix: ua0050/
 work_type: Work
 file_method: remove-and-add
 visibility: restricted
