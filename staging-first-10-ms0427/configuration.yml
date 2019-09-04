@@ -1,0 +1,14 @@
+---
+notifications:
+- ethenry@ucsc.edu
+name: staging first 10 ms0427
+status: New
+type: ingest
+file_prefix: ms0427
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+staging-first-10-ms0427: staging-first-10-ms0427
+ingest: ingest
+OK: OK
