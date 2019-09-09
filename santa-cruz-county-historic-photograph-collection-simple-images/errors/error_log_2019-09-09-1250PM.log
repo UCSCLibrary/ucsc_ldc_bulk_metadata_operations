@@ -1,0 +1,47 @@
+
+-- Error interpreting column header(s) --
+We cannot interpret all of the headers from your metadata spreadsheet. 
+Specifically, the following headers did not make sense to us:
+descriptionFeatures, rightStatement
+
+-- Missing File Errors --
+ We couldn't find the files listed on 25 rows.
+Missing filenames:
+/dams_ingest/ms0427/ms0427_pho_01225c.1.tif
+/dams_ingest/ms0427/ms0427_pho_01225c.2.tif
+/dams_ingest/ms0427/ms0427_pho_01543
+.tif
+/dams_ingest/ms0427/ms0427_pho_01544
+.tif
+/dams_ingest/ms0427/ms0427_pho_01545
+.tif
+/dams_ingest/ms0427/ms0427_pho_01546
+.tif
+/dams_ingest/ms0427/ms0427_pho_01547
+.tif
+/dams_ingest/ms0427/ms0427_pho_01548
+.tif
+/dams_ingest/ms0427/ms0427_pho_01549
+.tif
+/dams_ingest/ms0427/ms0427_pho_01550
+.tif
+/dams_ingest/ms0427/ms0427_pho_01551
+.tif
+/dams_ingest/ms0427/ms0427_pho_01552
+.tif
+/dams_ingest/ms0427/ms0427_pho_01553
+.tif
+/dams_ingest/ms0427/ms0427_pho_01554
+.tif
+/dams_ingest/ms0427/ms0427_pho_01555
+.tif
+/dams_ingest/ms0427/ms0427_pho_03285.tif
+/dams_ingest/ms0427/ms0427_pho_04919.tif
+/dams_ingest/ms0427/ms0427_pho_06197.tif
+/dams_ingest/ms0427/ms0427_pho_06844.tif
+/dams_ingest/ms0427/ms0427_pho_06873.tif
+/dams_ingest/ms0427/ms0427_pho_07020.tif
+/dams_ingest/ms0427/ms0427_pho_07492.tif
+/dams_ingest/ms0427/ms0427_pho_10631.tif
+/dams_ingest/ms0427/ms0427_pho_10669.tif
+/dams_ingest/ms0427/ms0427_pho_10851.tif
