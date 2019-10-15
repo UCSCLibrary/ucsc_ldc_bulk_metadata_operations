@@ -1,0 +1,14 @@
+---
+notifications:
+- ethenry@ucsc.edu
+name: CMF small staging test
+status: New
+type: ingest
+file_prefix: ms0414/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+cmf-small-staging-test: cmf-small-staging-test
+ingest: ingest
+OK: OK

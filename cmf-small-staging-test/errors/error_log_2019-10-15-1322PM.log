@@ -1,0 +1,5 @@
+
+-- Error: bad object reference --mWe enountered 2 problems resolving object references.
+The row numbers with problems were:
+row number 3 references the object 0
+row number 4 references the object 0
