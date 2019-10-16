@@ -1,5 +1,14 @@
-notifications: 
-  - ethenry@ucsc.edu
-name: "A Readable Branch Name (optional)"
+---
+notifications:
+- ethenry@ucsc.edu
+name: Cabrillo Music Festival ingest
 status: New
-type: "Update / Edit / Overlay"
+type: ingest
+file_prefix: ms0414/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+cabrillo-music-festival-ingest: cabrillo-music-festival-ingest
+ingest: ingest
+OK: OK
