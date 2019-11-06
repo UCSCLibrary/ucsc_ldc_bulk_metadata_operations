@@ -1,5 +1,14 @@
-notifications: 
-  - ethenry@ucsc.edu
-name: "A Readable Branch Name (optional)"
+---
+notifications:
+- ethenry@ucsc.edu
+name: UC Santa Cruz Faculty Lectures
 status: New
-type: "Update / Edit / Overlay"
+type: ingest
+file_prefix: hitchcock_holmes/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+uc-santa-cruz-faculty-lectures: uc-santa-cruz-faculty-lectures
+ingest: ingest
+OK: OK
