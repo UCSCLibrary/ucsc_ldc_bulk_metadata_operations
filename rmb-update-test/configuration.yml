@@ -4,7 +4,7 @@ notifications:
 name: rmb-update-test
 status: New
 type: ingest
-file_prefix: ''
+file_prefix: ms0020/
 work_type: Work
 file_method: remove-and-add
 visibility: restricted
