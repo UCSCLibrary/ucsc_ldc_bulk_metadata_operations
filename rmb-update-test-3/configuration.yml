@@ -1,0 +1,15 @@
+---
+notifications:
+- ethenry@ucsc.edu
+name: rmb-update-test-3
+status: New
+type: ingest
+file_prefix: ms0020_done/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+update_identifier: accessionNumber
+ignored_columns: []
+rmb-update-test-3: rmb-update-test-3
+ingest: ingest
+OK: OK
