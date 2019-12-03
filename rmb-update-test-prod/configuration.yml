@@ -1,0 +1,15 @@
+---
+notifications:
+- ethenry@ucsc.edu
+name: rmb-update-test-prod
+status: New
+type: ingest
+file_prefix: ''
+work_type: Work
+file_method: remove-and-add
+update_identifier: masterFilename
+visibility: open
+ignored_columns: []
+rmb-update-test-prod: rmb-update-test-prod
+ingest: ingest
+OK: OK
