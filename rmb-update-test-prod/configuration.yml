@@ -7,7 +7,8 @@ type: ingest
 file_prefix: ''
 work_type: Work
 file_method: remove-and-add
-visibility: restricted
+update_identifier: masterFilename
+visibility: open
 ignored_columns: []
 rmb-update-test-prod: rmb-update-test-prod
 ingest: ingest
