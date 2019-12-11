@@ -6,6 +6,7 @@ status: New
 type: ingest
 file_prefix: ''
 work_type: Work
+update_identifier: masterFilename
 file_method: remove-and-add
 visibility: restricted
 ignored_columns: []
