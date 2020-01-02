@@ -1,0 +1,15 @@
+---
+notifications:
+- ethenry@ucsc.edu
+name: RMB-remodel-prod
+status: New
+type: ingest
+file_prefix: ms0020_done/
+update_identifier: masterFilename
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+rmb-remodel-prod: rmb-remodel-prod
+ingest: ingest
+OK: OK
