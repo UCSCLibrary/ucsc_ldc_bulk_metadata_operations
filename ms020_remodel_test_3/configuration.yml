@@ -8,6 +8,7 @@ file_prefix: ms0020_done/
 work_type: Work
 file_method: remove-and-add
 visibility: restricted
+update_identifier: masterFilename
 ignored_columns: []
 ms020_remodel_test_3: ms020_remodel_test_3
 ingest: ingest
