@@ -1,0 +1,15 @@
+---
+notifications:
+- ethenry@ucsc.edu
+name: MS20_test_2
+status: New
+type: ingest
+file_prefix: ms0020_done/
+work_type: Work
+file_method: remove-and-add
+visibility: open
+update_identifier: masterFilename
+ignored_columns: []
+ms20_test_2: ms20_test_2
+ingest: ingest
+OK: OK
