@@ -1,0 +1,5 @@
+
+-- Error interpreting column header(s) --
+We cannot interpret all of the headers from your metadata spreadsheet. 
+Specifically, the following headers did not make sense to us:
+dateCreatedFake

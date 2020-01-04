@@ -1,0 +1,14 @@
+---
+notifications:
+- ethenry@ucsc.edu
+name: MS20_Other_Series_remodel
+status: New
+type: ingest
+file_prefix: ms0020_done/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+ms20_other_series_remodel: ms20_other_series_remodel
+ingest: ingest
+OK: OK
