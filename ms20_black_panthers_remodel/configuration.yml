@@ -7,6 +7,7 @@ type: ingest
 file_prefix: ms0020_done/
 work_type: Work
 file_method: remove-and-add
+update_identifier: masterFilename
 visibility: restricted
 ignored_columns: []
 ms20_black_panthers_remodel: ms20_black_panthers_remodel
