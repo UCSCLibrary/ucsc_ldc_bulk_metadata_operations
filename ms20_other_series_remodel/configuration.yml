@@ -5,6 +5,7 @@ name: MS20_Other_Series_remodel
 status: New
 type: ingest
 file_prefix: ms0020_done/
+update_identifier: masterFilename
 work_type: Work
 file_method: remove-and-add
 visibility: restricted
