@@ -1,0 +1,13 @@
+
+-- Error interpreting column header(s) --
+We cannot interpret all of the headers from your metadata spreadsheet. 
+Specifically, the following headers did not make sense to us:
+object_type, rightsStatus
+
+-- Missing File Errors --
+ We couldn't find the files listed on 4 rows.
+Missing filenames:
+/dams_ingest/Combined_Campus_History/ucsc_1_rf.tif
+/dams_ingest/Combined_Campus_History/ucsc_11_rf.tif
+/dams_ingest/Combined_Campus_History/ucsc_12_rf.tif
+/dams_ingest/Combined_Campus_History/ucsc_10_rf.tif
