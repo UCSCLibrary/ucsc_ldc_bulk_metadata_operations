@@ -1,0 +1,13 @@
+---
+notifications:
+- ethenry@ucsc.edu
+name: Campus history collections combined sandbox test
+status: New
+type: Update / Edit / Overlay
+file_prefix: Combined_Campus_History/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+campus-history-collections-combined-sandbox-test: campus-history-collections-combined-sandbox-test
+OK: OK
