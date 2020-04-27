@@ -1,5 +1,13 @@
-notifications: 
-  - ethenry@ucsc.edu
-name: "A Readable Branch Name (optional)"
+---
+notifications:
+- ethenry@ucsc.edu
+name: Cabrillo Music Festival of Contemporary Music Recordings Collection 2
 status: New
-type: "Update / Edit / Overlay"
+type: Update / Edit / Overlay
+file_prefix: ms0414_CMF_round2/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+cabrillo-music-festival-of-contemporary-music-recordings-collection-2: cabrillo-music-festival-of-contemporary-music-recordings-collection-2
+OK: OK
