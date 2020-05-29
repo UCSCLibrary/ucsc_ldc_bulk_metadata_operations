@@ -4,7 +4,7 @@ notifications:
 name: Ansel Adams Photographs
 status: New
 type: Update / Edit / Overlay
-file_prefix: ms0020/
+file_prefix: ms0002/
 work_type: Work
 file_method: remove-and-add
 visibility: restricted
