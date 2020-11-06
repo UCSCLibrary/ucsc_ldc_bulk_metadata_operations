@@ -1,0 +1,13 @@
+---
+notifications:
+- ethenry@ucsc.edu
+name: Lick Simple
+status: New
+type: Update / Edit / Overlay
+file_prefix: ua0036/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+lick-simple: lick-simple
+OK: OK
