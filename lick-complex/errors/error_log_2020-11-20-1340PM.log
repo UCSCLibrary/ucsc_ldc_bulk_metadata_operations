@@ -1,0 +1,35 @@
+
+-- Error interpreting column header(s) --
+We cannot interpret all of the headers from your metadata spreadsheet. 
+Specifically, the following headers did not make sense to us:
+creator URI, dateCreatedFake, subjectName URI, subjectPlace URI, genre URI, physicalFormat URI, language URI, resourceType URI
+
+-- Errors Retrieving Remote Labels --
+Error retrieving label for remote url eng. 
+This url appears in 468 instances in the spreadsheet.
+The affected rows are listed here:
+30\n33\n36\n39\n42\n45\n48\n51\n54\n57\n60\n63\n66\n69\n72\n75\n78\n81\n84\n87\n90\n93\n96\n99\n102\n105\n108\n111\n114\n117\n120\n123\n126\n129\n132\n135\n138\n141\n144\n147\n150\n153\n156\n159\n162\n165\n168\n171\n174\n177\n180\n183\n186\n189\n192\n195\n198\n201\n204\n207\n210\n213\n216\n219\n222\n225\n228\n231\n234\n237\n240\n243\n246\n249\n252\n255\n258\n261\n264\n267\n270\n273\n276\n279\n282\n285\n288\n291\n294\n297\n300\n303\n306\n309\n312\n315\n318\n321\n324\n327\n330\n333\n336\n339\n342\n345\n348\n351\n354\n357\n360\n363\n366\n369\n372\n375\n378\n381\n384\n387\n390\n393\n396\n399\n402\n405\n414\n423\n429\n432\n435\n438\n441\n447\n450\n453\n456\n459\n462\n465\n468\n471\n474\n477\n480\n483\n486\n492\n495\n498\n501\n504\n507\n510\n513\n516\n519\n522\n525\n528\n534\n537\n540\n543\n546\n549\n552\n555\n558\n561\n564\n570\n573\n579\n582\n585\n588\n591\n594\n597\n600\n603\n606\n609\n612\n615\n618\n621\n624\n633\n636\n642\n645\n648\n651\n654\n657\n660\n663\n666\n669\n672\n675\n678\n681\n684\n687\n690\n693\n696\n699\n702\n705\n708\n711\n714\n717\n720\n723\n726\n729\n732\n735\n741\n744\n747\n750\n753\n756\n759\n762\n765\n768\n771\n774\n777\n780\n783\n786\n789\n792\n795\n798\n801\n804\n807\n810\n813\n816\n819\n822\n825\n828\n831\n840\n843\n846\n849\n852\n855\n858\n861\n864\n867\n870\n873\n876\n879\n882\n885\n888\n891\n894\n897\n900\n903\n906\n909\n912\n915\n918\n921\n924\n927\n930\n933\n936\n939\n942\n945\n948\n954\n957\n960\n966\n969\n975\n978\n981\n984\n987\n990\n993\n996\n999\n1002\n1005\n1008\n1011\n1014\n1017\n1020\n1023\n1026\n1029\n1032\n1035\n1044\n1047\n1050\n1053\n1056\n1059\n1062\n1065\n1068\n1071\n1074\n1077\n1080\n1083\n1086\n1089\n1092\n1095\n1098\n1101\n1104\n1107\n1110\n1113\n1116\n1119\n1122\n1125\n1128\n1131\n1134\n1137\n1140\n1143\n1146\n1149\n1152\n1155\n1158\n1161\n1164\n1167\n1170\n1173\n1176\n1179\n1182\n1185\n1188\n1191\n1194\n1197\n1200\n1203\n1206\n1209\n1212\n1215\n1218\n1221\n1224\n1227\n1230\n1233\n1236\n1239\n1242\n1245\n1248\n1251\n1254\n1257\n1260\n1263\n1266\n1269\n1272\n1275\n1278\n1284\n1287\n1290\n1293\n1299\n1302\n1305\n1308\n1311\n1314\n1317\n1320\n1323\n1326\n1329\n1332\n1335\n1338\n1341\n1347\n1350\n1353\n1362\n1365\n1368\n1371\n1374\n1377\n1380\n1383\n1386\n1389\n1392\n1395\n1398\n1401\n1404\n1407\n1410\n1413\n1419\n1431\n1434\n1437\n1440\n1443\n1446\n1449\n1452\n1455\n1458\n1461\n1464\n1467\n1470\n1473\n1476\n1479\n1482\n1485\n1497\n1503\n1509\n1512\n1515\n1518\n1521\n1524\n1527\n1561\n1577\n1586
+Error retrieving label for remote url ger. 
+This url appears in 18 instances in the spreadsheet.
+The affected rows are listed here:
+408\n411\n417\n426\n444\n489\n576\n627\n630\n639\n738\n834\n837\n972\n1041\n1281\n1296\n1344
+Error retrieving label for remote url rus. 
+This url appears in 1 instances in the spreadsheet.
+The affected rows are listed here:
+420
+Error retrieving label for remote url swe. 
+This url appears in 1 instances in the spreadsheet.
+The affected rows are listed here:
+531
+Error retrieving label for remote url hun. 
+This url appears in 1 instances in the spreadsheet.
+The affected rows are listed here:
+567
+Error retrieving label for remote url fre. 
+This url appears in 2 instances in the spreadsheet.
+The affected rows are listed here:
+951\n963
+Error retrieving label for remote url ita. 
+This url appears in 1 instances in the spreadsheet.
+The affected rows are listed here:
+1038
