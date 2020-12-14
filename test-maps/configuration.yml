@@ -1,0 +1,13 @@
+---
+notifications:
+- ethenry@ucsc.edu
+name: Test Maps
+status: New
+type: Update / Edit / Overlay
+file_prefix: maps_test/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+test-maps: test-maps
+OK: OK
