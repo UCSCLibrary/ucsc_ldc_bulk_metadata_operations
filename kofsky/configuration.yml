@@ -1,5 +1,13 @@
-notifications: 
-  - ethenry@ucsc.edu
-name: "A Readable Branch Name (optional)"
+---
+notifications:
+- ethenry@ucsc.edu
+name: kofsky
 status: New
-type: "Update / Edit / Overlay"
+type: Update / Edit / Overlay
+file_prefix: ms0312/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+kofsky: kofsky
+OK: OK
