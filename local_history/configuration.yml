@@ -1,0 +1,13 @@
+---
+notifications:
+- ethenry@ucsc.edu
+name: local_history
+status: New
+type: Update / Edit / Overlay
+file_prefix: local_history/
+work_type: Work
+file_method: remove-and-add
+visibility: restricted
+ignored_columns: []
+local_history: local_history
+OK: OK
